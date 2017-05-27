@@ -12,7 +12,7 @@ public class Payslip {
 
         int menuOption;
 
-        System.out.println("Welcome to Glado Payslip Manager Premium");
+        System.out.println("Welcome to Payslip Manager Premium");
         System.out.println("Menu :");
         System.out.println("1. I know my rates and total weekly hours");
         System.out.println("2. I know my rates and avg. daily hours");
