@@ -37,12 +37,12 @@ public class Payslip {
                         taxPayer.printPayslip();
 
                     } else {
-                        System.out.println("Error. Not a valid number");
+                        System.out.println("Error. Not a valid number.");
 
                     }
 
                 } else {
-                    System.out.println("Error. Not a valid number");
+                    System.out.println("Error. Not a valid number.");
                 }
                 break;
             case 2:
