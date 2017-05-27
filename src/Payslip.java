@@ -17,7 +17,7 @@ public class Payslip {
         System.out.println("1. I know my rates and total weekly hours");
         System.out.println("2. I know my rates and avg. daily hours");
         System.out.println("3. I know my monthly net salary");
-        System.out.print("Choose and press enter: ");
+        System.out.print("Choose option and press enter: ");
 
         menuOption = inputData.nextInt();
 
